@@ -31,3 +31,18 @@
   - Customized Deep Learning Networks
   - State of the Art YOLO Networks
     and much more!
+
+### what will we learn 
+ - Understand basics of NumPy
+ - Manipulate and open Images with NumPy
+ - Use OpenCV to work with image files
+ - Use Python and OpenCV to draw shapes on images and videos
+ - Perform image manipulation with OpenCV, including smoothing, blurring, thresholding, and morphological operations.
+ - Create Color Histograms with OpenCV
+ - Open and Stream video with Python and OpenCV
+ - Detect Objects, including corner, edge, and grid detection techniques with OpenCV and Python
+ - Create Face Detection Software
+ - Segment Images with the Watershed Algorithm
+ - Track Objects in Video
+ - Use Python and Deep Learning to build image classifiers
+ - Work with Tensorflow, Keras, and Python to train on your own custom images.
