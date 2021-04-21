@@ -162,6 +162,5 @@ Contents
     - [Video-lectures available here](https://www.youtube.com/watch?v=2pWv7GOvuf0)          
   + [AnIntroductiontoDeepReinforcementLearning.pdf](https://github.com/changwookjun/StudyBook/blob/master/ReinforcementLearningBooks/AnIntroductiontoDeepReinforcementLearning.pdf)  
 
-# Author
-ChangWookJun / @changwookjun (changwookjun@gmail.com)
+
 
